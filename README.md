@@ -1,2 +1,2 @@
 # text
-this is adescription.
+This is a text repository for kiteAb's video. 
